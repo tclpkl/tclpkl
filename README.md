@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 😁 Thank you for visiting my GitHub page! 
 
 ```
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 class TimothyLin:
     def __init__(self):
         self.full_name = "Timothy Lin"
         self.job_title = "Software Engineer"
         self.programming_languages = ["Python, "C++", "Java", "Javascript", "HTML", "CSS", "SQL"]
-        self.languages_spoken = ["English", "Chinese"]
         self.interests = ["Cats", "Volleyball", "Gaming"]
 
     def wave(self):
