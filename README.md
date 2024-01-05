@@ -24,8 +24,8 @@ class TimothyLin:
     def __init__(self):
         self.full_name = "Timothy Lin"
         self.job_title = "Software Engineer"
-        self.programming_languages = ["Python, "C++", "Java", "Javascript", "HTML", "CSS", "SQL"]
-        self.interests = ["Cats", "Volleyball", "Gaming"]
+        self.programming_languages = ["Python", "C++", "Java", "Javascript", "HTML", "CSS", "SQL"]
+        self.interests = ["😸 Cats", "🏐 Volleyball", "🎮 Gaming"]
 
     def wave(self):
         print("Welcome to my GitHub page! Thanks for taking the time to visit and have a great day!")
@@ -41,7 +41,7 @@ me.wave()
 
 - 💻 Software Security Engineer Intern @ MathWorks (Summer 2023)
 
-- 👩‍⚕️ Software Developer @ USC Keck School of Medicine (Summer 2022)
+- 👩‍⚕️ Software Developer Intern @ USC Keck School of Medicine (Summer 2022)
   
 - 📚 Full-Stack Software Engineer @ Fullfilment Fund
 
