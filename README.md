@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I love cats 🐈 , volleyball 🏐, and gaming 🎮!**
 
 <h3 align="left">Work Experiences & Projects:</h3>
-<p align="left">
-- 🚒 Student Software Developer @ Los Angeles County Fire Department 
-- 💻 Sofftware Security Engineer Intern @ MathWorks (Summer 2023)
-- 👩‍⚕️ Software Developer @ USC Keck School of Medicine (Summer 2022)
-- 📚 Full-Stack Software Engineer @ Fullfilment Fund
-</p>
+- 🚒 Student Software Developer @ Los Angeles County Fire Department**
+- 💻 Sofftware Security Engineer Intern @ MathWorks (Summer 2023)**
+- 👩‍⚕️ Software Developer @ USC Keck School of Medicine (Summer 2022)**
+- 📚 Full-Stack Software Engineer @ Fullfilment Fund**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
