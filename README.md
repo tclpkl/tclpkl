@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Timothy Lin</h1>
 <h3 align="center">A Software Engineer studying CS @ USC</h3>
  
-- 📫 How to reach me **ttlin@usc.edu**
-
-- ⚡ Fun fact **I love cats 🐈 , volleyball 🏐, and gaming 🎮!**
+- 😁 Thank you for visiting my GitHub page! 
 
 <h3 align="left">Work Experiences & Projects:</h3>
 
