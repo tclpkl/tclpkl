@@ -19,10 +19,7 @@ Here are some ideas to get you started:
  
 😁 Thank you for visiting my GitHub page! 
 
-```
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
+```python
 class TimothyLin:
     def __init__(self):
         self.full_name = "Timothy Lin"
