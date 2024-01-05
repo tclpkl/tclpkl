@@ -17,13 +17,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Timothy Lin</h1>
 <h3 align="center">A Software Engineer studying CS @ USC</h3>
 
-Whether it is creating an application for the Los Angeles County Fire Department, a USC medical research team, or a non-profit in the education sector, I am passionate about applying my computer science background to create high-impact work.
-
-With the software engineering experiences I have accumulated via internships and personal projects, I am confident my skill-set and ability to learn new frameworks/technologies will set me up for success in my next position. Please feel free to reach out via my email at ttlin@usc.edu with any questions or concerns!
-
+- 💼 Experiences & Projects **ttlin@usc.edu**
+- 
 - 📫 How to reach me **ttlin@usc.edu**
 
 - ⚡ Fun fact **I love cats 🐈 , volleyball 🏐, and gaming 🎮!**
+
+<h3 align="left">Work Experiences & Projects:</h3>
+<p align="left">
+- 🚒 Student Software Developer @ Los Angeles County Fire Department 
+- 💻 Sofftware Security Engineer Intern @ MathWorks (Summer 2023)
+- 👩‍⚕️ Software Developer @ USC Keck School of Medicine (Summer 2022)
+- 📚 Full-Stack Software Engineer @ Fullfilment Fund
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
