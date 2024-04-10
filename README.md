@@ -43,7 +43,7 @@ me.wave()
 
 - 👩‍⚕️ Software Developer Intern @ USC Keck School of Medicine (Summer 2022)
   
-- 📚 Full-Stack Software Engineer @ Fullfilment Fund
+- 📚 Full-Stack Software Engineer @ Fullfillment Fund
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
