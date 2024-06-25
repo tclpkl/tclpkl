@@ -37,7 +37,7 @@ me.wave()
 
 <h3 align="left">Work Experiences & Projects:</h3>
 
-- 💻 Cloud Software Engineer Intern @ MathWorks (Summer 2023)
+- 💻 Cloud Software Engineer Intern @ MathWorks (Summer 2024)
 
 - 🚒 Student Software Developer @ Los Angeles County Fire Department
 
